@@ -1,0 +1,93 @@
+p {
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.image1 {
+    width: 300px;
+    
+}
+.image2 {
+    width: 300px;
+    
+}
+#first {
+    
+    display:inline-block;
+    margin-right: 15px;
+}
+#search {
+    display: block;
+}
+#second {
+    vertical-align: top;
+    display:inline-block
+}
+.profile1 {
+    display:inline-block;
+    width: 50px;
+    vertical-align: top;
+    
+}
+.info1 {
+    display: inline-block;
+    width: 200px;
+}
+#pic1 {
+    width: 40px;
+    border-radius: 50px;
+}
+#description1 {
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+#row1 {
+    margin-bottom: 12px;
+}
+#person1 {
+    font-size: 12px;
+    color: rgb(76, 75, 75);
+    margin-bottom: 4px;
+}
+#info1 {
+    font-size: 12px;
+    color: rgb(76, 75, 75);
+}
+#profile2 {
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+}
+.info2 {
+    display: inline-block;
+    width: 200px;
+}
+#pic2 {
+    width: 40px;
+    border-radius: 50px;
+
+}
+#row2 {
+    margin-bottom: 12px;
+}
+#description2 {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+#person2 {
+    font-size: 12px;
+    color:rgb(76, 75, 75);
+    margin-bottom: 4px;
+}
+#info2 {
+    font-size: 12px;
+    color:rgb(76, 75, 75);
+    margin-bottom: 4px;
+}
+
